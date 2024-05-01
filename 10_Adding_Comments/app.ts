@@ -1,4 +1,3 @@
-Name 
 // exercise 10
 // my name is waleed
 // date: 19/2/2024
